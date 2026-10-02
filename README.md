@@ -17,19 +17,23 @@ This project provides a simple Streamlit-based dashboard for visualizing GDP dat
 - Deployment: Streamlit Cloud
 
 ## Demo
-- Live Demo: https://gdp-dashboard-template.streamlit.app/
+- Live demo: https://gdp-dashboard-template.streamlit.app/
 
-## Run Locally
+## Run locally
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## Project Goal
-To present economic data in a clear and visually engaging way with a simple, effective dashboard workflow.
+## Project goal
+To present economic data in a clean and visually engaging way with a simple, effective dashboard workflow.
 
-## My Contribution
+## My contribution
 This project demonstrates data storytelling and dashboard design using a lightweight, readable interface for public data exploration.
 
 ## Status
 Published dashboard / portfolio project
+
+---
+
+Making data simple. Making insights clear.
